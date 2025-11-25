@@ -10,5 +10,4 @@ public class GitPractice {
 		System.out.println("Hello");
 	}
 	
-
 }
