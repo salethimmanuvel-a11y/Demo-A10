@@ -8,7 +8,7 @@ public class GitParctice2 {
 	public void m2()
 	{
 		System.out.println("Good");
-		System.out.println("Pushing Through Branch");
+		System.out.println("Pushing Through Branch ATE");
 	}
 
 }
